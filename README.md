@@ -1,3 +1,3 @@
-# MyProject3
+# Shooter Demo
 
 Developed with Unreal Engine 5
